@@ -1,0 +1,38 @@
+.Content__Background{
+    background-color: #eaebeb ;
+}
+.content_info{
+    background-color: #fff;
+    padding: 1rem;
+    margin:1rem;
+}
+
+.content >h3{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 600;
+    text-align: center;
+    margin: 2rem;
+    
+} 
+
+.content >h5{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 600;   
+    font-style: italic; 
+    margin: 1rem;
+} 
+
+.subheader{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 400;
+    text-decoration: none;
+    color:black;   
+    margin:1rem;
+}
+
+.subheader:hover{   
+    color:white;
+    padding:  0.5rem 0.2rem; 
+    text-decoration: none;  
+    background-color: black;    
+}

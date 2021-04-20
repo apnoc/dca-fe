@@ -1,0 +1,73 @@
+.content__background{
+    background-color: #eaebeb ;
+}
+.content_info{
+    background-color: #fff;
+    padding: 1rem;
+    margin:1rem;
+}
+
+.content{
+    color:rgb(65, 64, 64);
+}
+
+.content >h3{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 600;
+    margin: 2rem;
+    
+} 
+
+.content >h5{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 600;   
+    font-style: italic; 
+    margin: 1rem;
+} 
+
+.subheader{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 400;
+    text-decoration: none;
+    color:black;   
+   
+}
+
+.subheader:hover{   
+    color:white;
+    padding:  0.5rem 0.2rem; 
+    text-decoration: none;  
+    background-color: black;    
+}
+
+
+
+
+.content {
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 600;    
+    margin: 1rem;
+} 
+
+.sub__header{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 400;
+    color:black
+}
+
+.sub__header:hover{    
+    color:black;
+}
+
+.main__header{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 400;
+    color:black
+}
+.sub__heading{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 300;
+    font-style: italic;
+    color:black ; 
+    line-height: 2rem;
+}

@@ -1,0 +1,30 @@
+.Content__Background{
+    background-color: #eaebeb ;
+}
+
+
+.content{
+    font-family: "Source Serif Pro", serif;    
+
+}
+
+.content >h3{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 600;
+    text-align: center;
+    margin: 1rem;
+} 
+
+.content >h4{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 600;
+    margin: 1rem;
+    font-style: italic;
+} 
+
+.content >p{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 400;
+    margin: 1rem;
+    line-height: 2rem;
+} 

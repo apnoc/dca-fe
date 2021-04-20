@@ -1,0 +1,75 @@
+.hero_section{
+    background-color: #eaebeb ;
+    
+}
+.details{
+    margin:20px;
+}
+.banner {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin: 3rem;
+    font-family: "Source Serif Pro", serif;
+  }
+
+.span {
+    font-weight: bold;
+}
+
+.notifications {    
+    border: 1px solid #1e1e1f ;
+    padding: 1px;
+    background-color: #fff
+
+}
+.content_info{
+    background-color: #fff;
+    padding: 1rem;
+    margin:1rem;
+}
+.notifications .header {
+    margin: 1px;
+    padding: 0.5rem;
+    text-align: center;
+    background-color: rgb(216, 232, 248)
+}
+
+.notifications .text .content {
+    margin: 1px;
+    padding: 0.5rem;
+    text-align: center;
+    font-family: "Source Serif Pro", serif;
+    font-weight: 400;
+    line-height: 2rem;    
+}
+
+.content {
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 600;    
+    margin: 1rem;
+    
+} 
+
+.sub__header{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 400;
+    color:black
+}
+
+.sub__header:hover{    
+    color:black;
+}
+
+.main__header{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 400;
+    color:black
+}
+.sub__heading{
+    font-family: "Source Serif Pro", serif; 
+    font-weight: 300;
+    font-style: italic;
+    color:black ; 
+    line-height: 2rem;
+}
